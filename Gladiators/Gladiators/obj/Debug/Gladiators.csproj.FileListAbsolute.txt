@@ -1,0 +1,13 @@
+E:\C#\Glads\Gladiators\Gladiators\bin\Debug\Gladiators.exe.config
+E:\C#\Glads\Gladiators\Gladiators\bin\Debug\Gladiators.exe
+E:\C#\Glads\Gladiators\Gladiators\bin\Debug\Gladiators.pdb
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.Form1.resources
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.Form2.resources
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.Properties.Resources.resources
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.csproj.GenerateResource.Cache
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.exe
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.pdb
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.Form3.resources
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.csprojResolveAssemblyReference.cache
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.Form4.resources
+E:\C#\Glads\Gladiators\Gladiators\obj\Debug\Gladiators.Form5.resources

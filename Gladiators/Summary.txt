@@ -1,0 +1,15 @@
+You are a gladiator and your goal is to beat the arena boss.
+
+How to play:
+You start with 100 ATK, 100 HP, 100 money. With money you can buy items that will 
+boost your ATK and HP. If an item is bought, you can't buy the previous weaker versions
+of the item. You can get money by defeating the monsters in the forest.
+
+Fighting: turn based 
+The green sword does the least damage but has a 100% chance to hit.
+The yellow sword does more damage but has a 80% chance to hit.
+The red sword does the most damage but has a 50% chance to hit.
+
+Note: The game is saved and you can continue after you quit.
+
+Disclaimer: Pictures are taken from the internet.
